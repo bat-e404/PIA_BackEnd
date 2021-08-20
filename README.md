@@ -12,7 +12,7 @@
 
 <h1> Introducción
 </h1>
-<img align="left" src="img/ii.png" height="230px"/>
+<img align="left" src="img/ii.png" height="220px"/>
 
 ```
 ----------------------------------------------------------------------
