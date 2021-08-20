@@ -49,6 +49,16 @@ ayudar a ver resultados de movimientos y su desempeño en un
 lapso de tiempo.
 ---------------------------------------------------------
 ```
-
-
 <br>
+
+## Entidades
+
+Se presentaran las clases que estaran en la **DB** 
+
+```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
