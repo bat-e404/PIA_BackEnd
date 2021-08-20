@@ -28,7 +28,7 @@ y que estén en un mismo canal se suele aplicar auditorías a diversos
 departamentos de una empresa, pero estos procesos son algo lentos y e-
 n ocasiones la misma empresa contrata a servicios externos que realic-
 en esta función y correr el riesgo de no estar familiarizado con la e-
-mpresa se tome decisiones o el enfoque principal se pierda.
+mpresa se tome decisiones erroneas o el enfoque principal se pierda.
 ----------------------------------------------------------------------
 ```
 <br>
