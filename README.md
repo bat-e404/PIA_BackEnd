@@ -34,7 +34,7 @@ mpresa se tome decisiones o el enfoque principal se pierda.
 <br>
 
 ## Propuesta Técnica
-
+<img align="right" src="img/ft.png" height="220px"/>
 ```
 ----------------------------------------------------------------------
 Los procesos de una empresa son fundamentales para lograr con éxito el 
@@ -52,6 +52,6 @@ en esta función y correr el riesgo de no estar familiarizado con la e-
 mpresa se tome decisiones o el enfoque principal se pierda.
 ----------------------------------------------------------------------
 ```
-<img align="right" src="img/ft.png" height="220px"/>
+
 
 <br>
