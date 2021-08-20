@@ -32,4 +32,5 @@ mpresa se tome decisiones o el enfoque principal se pierda.
 ----------------------------------------------------------------------
 ```
 <br>
+
 ## Propuesta Técnica
