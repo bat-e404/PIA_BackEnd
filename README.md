@@ -15,8 +15,8 @@
 </h1>
 <img align="left" src="img/ii.png" height="300px"/>
 
-```csharp
-
+```
+    ----------------------------------------------------------------------
     Los procesos de una empresa son fundamentales para lograr con éxito el 
     resultado esperado de un producto o servicio dirigido al consumidor. 
     
@@ -30,7 +30,7 @@
     n ocasiones la misma empresa contrata a servicios externos que realic-
     en esta función y correr el riesgo de no estar familiarizado con la e-
     mpresa se tome decisiones o el enfoque principal se pierda.
-    ------------------------------------------
+    ----------------------------------------------------------------------
     
 ```
 <br>
