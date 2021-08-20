@@ -55,10 +55,4 @@ lapso de tiempo.
 
 Se presentaran las clases que estaran en la **DB** 
 
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
+![alt text](img/entidades.png)
