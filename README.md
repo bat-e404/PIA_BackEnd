@@ -39,14 +39,14 @@ mpresa se tome decisiones o el enfoque principal se pierda.
 
 ```
 ------------------------------------------------------------
-El posesos de las auditorias antes mencionado las cuales son aplicadas a las 
-empresas para la mejora continua de estas mismas, pensamos como equip-
-os que sería viable hacer una API para agilizar los procesos de auditorías de
-cualquier índole aplicada en cualquier departamento de una empresa,
-hacer que el proceso de planeación de la auditorias sea más agiles, ay-
-udar a ver resultados de movimientos y su desempeño en un lapso de tie-
-mpo.
-
+El posesos de las auditorias antes mencionado las cuales son 
+aplicadas a las empresas para la mejora continua de estas m-
+ismas, pensamos como equipos que sería viable hacer una API 
+para agilizar los procesos de auditorías de cualquier índol-
+e aplicada en cualquier departamento de una empresa, hacer 
+que el proceso de planeación de la auditorias sea más agiles, 
+ayudar a ver resultados de movimientos y su desempeño en un 
+lapso de tiempo.
 ---------------------------------------------------------
 ```
 
