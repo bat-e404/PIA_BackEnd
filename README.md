@@ -8,7 +8,7 @@
 <img align="left" src="img/brandon.png" width="45%"/>
 <img align="left" src="img/ed.png" width="45%"/>
 </div>
-<br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 <h1> Introducción
