@@ -2,7 +2,7 @@
 
 ## Introducción
 
-<img align="left" src="img/ii.png" height="220px"/>
+<img align="left" src="img/ii.png" height="300px"/>
 
 ```csharp
 
