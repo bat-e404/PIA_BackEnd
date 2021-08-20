@@ -11,12 +11,9 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-<h1> Introducción
-</h1>
+<h1>Introducción</h1>
 <img align="left" src="img/ii.png" height="300px"/>
 ```csharp
     Los procesos de una empresa son fundamentales para lograr con éxito el resultado esperado de un producto o servicio dirigido al consumidor. 
-
-
 ```
-<br>
+
