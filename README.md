@@ -30,6 +30,5 @@ n ocasiones la misma empresa contrata a servicios externos que realic-
 en esta función y correr el riesgo de no estar familiarizado con la e-
 mpresa se tome decisiones o el enfoque principal se pierda.
 ----------------------------------------------------------------------
-    
 ```
 <br>
