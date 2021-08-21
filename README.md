@@ -52,9 +52,6 @@ lapso de tiempo.
 <br>
 
 
-## Modelo Entidad - Relacion
-
-=======
 ## Modelo Enitdad - Relacion de la DB
 
 
