@@ -51,9 +51,13 @@ lapso de tiempo.
 ```
 <br>
 
-## Entidades
+## Modelo Entidad - Relacion
+
 
 Se presentaran las clases que estaran en la **DB** 
 
 ![alt text](img/img.png)
+
+## Modelo Relacional
+
 ![alt text](img/butt.png)
