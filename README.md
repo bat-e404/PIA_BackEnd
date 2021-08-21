@@ -51,12 +51,12 @@ lapso de tiempo.
 ```
 <br>
 
-<<<<<<< HEAD
+
 ## Modelo Entidad - Relacion
 
 =======
 ## Modelo Enitdad - Relacion de la DB
->>>>>>> dabeb620645ef7268dbcecf84fa0ec421c52b08b
+
 
 Se muestra las entidades, metodos y  las relaciones de la **DB** 
 
@@ -64,12 +64,11 @@ Se muestra las entidades, metodos y  las relaciones de la **DB**
 
 ## Modelo Relacional
 
-<<<<<<< HEAD
-![alt text](img/butt.png)
-=======
-
-
-
 
 ![alt text](img/butt.png)
->>>>>>> dabeb620645ef7268dbcecf84fa0ec421c52b08b
+
+
+
+
+
+![alt text](img/butt.png)
