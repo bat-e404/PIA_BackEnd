@@ -55,4 +55,4 @@ lapso de tiempo.
 
 Se presentaran las clases que estaran en la **DB** 
 
-![alt text](img/entidades.png)
+![alt text](img/img.png)
