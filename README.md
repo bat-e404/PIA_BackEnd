@@ -51,9 +51,16 @@ lapso de tiempo.
 ```
 <br>
 
-## Entidades
+## Modelo Enitdad - Relacion de la DB
 
-Se presentaran las clases que estaran en la **DB** 
+Se muestra las entidades, metodos y  las relaciones de la **DB** 
 
 ![alt text](img/img.png)
+
+## Modelo Relacional
+
+
+
+
+
 ![alt text](img/butt.png)
