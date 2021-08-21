@@ -51,13 +51,25 @@ lapso de tiempo.
 ```
 <br>
 
+<<<<<<< HEAD
 ## Modelo Entidad - Relacion
 
+=======
+## Modelo Enitdad - Relacion de la DB
+>>>>>>> dabeb620645ef7268dbcecf84fa0ec421c52b08b
 
-Se presentaran las clases que estaran en la **DB** 
+Se muestra las entidades, metodos y  las relaciones de la **DB** 
 
 ![alt text](img/img.png)
 
 ## Modelo Relacional
 
+<<<<<<< HEAD
 ![alt text](img/butt.png)
+=======
+
+
+
+
+![alt text](img/butt.png)
+>>>>>>> dabeb620645ef7268dbcecf84fa0ec421c52b08b
