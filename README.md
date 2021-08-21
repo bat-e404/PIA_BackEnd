@@ -65,7 +65,7 @@ Se muestra las entidades, metodos y  las relaciones de la **DB**
 ## Modelo Relacional
 
 
-![alt text](img/butt.png)
+![alt text](img/entidades.png)
 
 
 
